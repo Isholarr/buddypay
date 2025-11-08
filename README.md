@@ -64,3 +64,6 @@ Display of the last few transactions with categories.
 Quick access buttons: Send Money, Chat with Buddy, Insights, Scan & Pay.
 Clean, minimal UI with easy navigation, low cognitive load.
 
+* Buddypay Userflow 
+https://www.figma.com/board/B8YdM6yZFK8vN022ZVvsjT/Buddypay-App-Wireframe?node-id=0-1&t=utbQzk5o3R4DAdr5-1
+
