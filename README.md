@@ -18,5 +18,49 @@ Locally Tuned: Understands everyday Nigerian language (including Pidgin/casual E
 Instant Clarity: “You spent ₦2,000 on food today” — actionable, real‑time feedback.
 Effortless Payments: Scan & Pay or use chat commands to make transfers — minimal taps, minimal friction.
 
+Core Features
+AI Chat Interface (Central Feature)
+Chat-style UI where users type commands (e.g., “Send ₦5,000 to Tunde”, “What did I spend on transport this week?”).
+NLP engine understands Nigerian Pidgin, casual language, and everyday tone.
+Handles transfers, insights, scheduling, reminders, and day-to-day transactions.
+Optional voice input (MVP feature).
 
+
+Scan & Pay
+QR code or account‑number scanning feature.
+Vendor posts account number (on a wall in supermarkets, street vendors), user scans → auto‑populate account details → user confirms → payment.
+Minimizes manual entry and errors.
+
+
+Spending Insights & Categorization
+Automatic categorization of each transaction (e.g., food, transport, bills, entertainment).
+Real-time feedback notifications (e.g., “You spent ₦2,000 on food today”).
+Trend insights (weekly, monthly), comparisons (vs last month), and alerts when category spending spikes.
+Personalized suggestions (in future phases) based on spending habits.
+
+
+Recurring Payments & Reminders
+Recurring payment scheduling (e.g., rent, subscriptions) or setting reminders.
+Notification 1–2 days before due date.
+Users can edit/cancel recurring payments.
+
+
+Money Transfers
+Easily send money to contacts (via phone number) or bank accounts through chat or transfer UI.
+Transfer history log for easy reference.
+Confirmation of recipient details (name, account number) before sending money.
+
+
+Security & Onboarding
+Onboarding with BVN + mobile number verification.
+PIN and/or biometric authentication for login and transaction authorization.
+Encryption of transactions and data for maximum security.
+Settings to update security preferences.
+
+
+Minimalist Dashboard
+Home screen showing balance summary (if applicable) or quick snapshot of spending.
+Display of the last few transactions with categories.
+Quick access buttons: Send Money, Chat with Buddy, Insights, Scan & Pay.
+Clean, minimal UI with easy navigation, low cognitive load.
 
